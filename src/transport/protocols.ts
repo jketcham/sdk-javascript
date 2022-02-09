@@ -7,7 +7,7 @@
  * An enum representing the transport protocols for an event
  */
 
-export const enum Protocol {
+export enum Protocol {
   HTTPBinary,
   HTTPStructured,
   HTTP,

@@ -14,7 +14,7 @@ import { ValidationError, isBinary, asBase64, isValidType } from "./validation";
 /**
  * An enum representing the CloudEvent specification version
  */
-export const enum Version {
+export enum Version {
   V1 = "1.0",
   V03 = "0.3",
 }
